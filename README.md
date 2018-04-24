@@ -1,6 +1,0 @@
-# -
-# -
-# -
-# -
-# -
-#motocomfestival
