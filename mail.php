@@ -1,9 +1,9 @@
 
 <?php
-$name = $_GET['name'];
-$email = $_GET['email'];
-$message = $_GET['message'];
-$subject = $_GET['subject'];
+$name = $_POST['name'];
+$email = $_POST['email'];
+$message = $_POST['message'];
+$subject = $_POST['subject'];
 header('Content-Type: application/json');
 if ($name === ''){
   print json_encode(array('message' => 'Name cannot be empty', 'code' => 0));
