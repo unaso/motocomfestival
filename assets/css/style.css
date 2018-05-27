@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6 {
     background-size: cover;
 }
 
-#workwrap h1 {
+#eventwrap h1 {
 	color:#ffffff;
 	padding-top: 10px;
 	padding-bottom: 20px;
@@ -180,13 +180,13 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: bold;
 }
 
-#workwrap h4 {
+#eventwrap h4 {
 	font-weight: 400;
 	color: #ffffff
 }
 
-#aboutwrap {	
-	background: url(../img/about.jpg) no-repeat center top;
+#eventwrap {	
+	background: url(../img/neutral-banner.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
@@ -206,7 +206,7 @@ h1, h2, h3, h4, h5, h6 {
     background-size: cover;
 }
 #aboutwrap {	
-	background: url(../img/neutral_banner2.jpg) no-repeat center top;
+	background: url(../img/neutral-banner2.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
