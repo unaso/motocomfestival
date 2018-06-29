@@ -192,6 +192,26 @@ h1, h2, h3, h4, h5, h6 {
     background-size: cover;
 }
 
+#artwrap {	
+	background: url(../img/pm2.jpg) no-repeat center top;
+	margin-top: -70px;
+	padding-top: 250px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 650px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 
 #foodwrap {	
 	background: url(../img/food.jpg) no-repeat center top;
